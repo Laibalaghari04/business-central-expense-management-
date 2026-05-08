@@ -1,0 +1,7 @@
+.alpackages/
+.snapshots/
+.vscode/rad.json
+*.app
+*.zip
+*.runtimepackage
+.DS_Store
