@@ -101,7 +101,7 @@ Approval Status: Approved
 
 ### Employee Expense Setup
 
-![Expense-Setup.png](screenshots/expense-setup.png)
+![Expense Setup](screenshots/expense-setup.png)
 
 ### Expense Categories
 
